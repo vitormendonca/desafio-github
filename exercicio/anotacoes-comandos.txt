@@ -1,0 +1,4 @@
+git init   = start a repository in the current file.
+git status = show the status of the current repository.
+git add = add the file in staging area. (doesn't post anything)
+git commit = post an update in the repository.
